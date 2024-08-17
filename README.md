@@ -18,3 +18,5 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Simple list of the process</h2>
 https://docs.google.com/document/d/1PIe1Anrfzrq6BKzmMfcYQGCBgz7PmtwL/edit?usp=sharing&ouid=113230259462418910579&rtpof=true&sd=true
+
+![image](https://github.com/user-attachments/assets/c28df405-f899-4d6d-8208-0def94a4579b)
