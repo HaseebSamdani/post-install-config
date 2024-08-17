@@ -22,6 +22,6 @@ https://docs.google.com/document/d/1PIe1Anrfzrq6BKzmMfcYQGCBgz7PmtwL/edit?usp=sh
 ![image](https://github.com/user-attachments/assets/85cbf0d7-41ba-4aca-8911-e89e8cafaa46)
 ![image](https://github.com/user-attachments/assets/974db38b-b7ec-4998-aaf5-c22cc6c31e38)
 ![image](https://github.com/user-attachments/assets/19ee47b7-c461-42cd-a6ad-4b29c90add19)
-![image](https://github.com/user-attachments/assets/4d8730a9-d8c4-4231-8cff-b8cc761cea8f)
+![image](https://github.com/user-attachments/assets/2a5bc5fd-5896-40d6-b51c-ba17bddb11e7)
 ![image](https://github.com/user-attachments/assets/c2386a22-ba3b-4ade-9e3c-e0ba32b53552)
 
